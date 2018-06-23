@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 I'm excited to build some useful we applications with Tony Florida!
 Tony taught me everything I know about programming.
